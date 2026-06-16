@@ -91,12 +91,26 @@ function ResultsPage() {
           ))}
         </div>
 
-        <div className="mt-12 flex justify-center">
+        <div className="mt-12 flex flex-wrap justify-center gap-3">
           <Button
             onClick={() => navigate({ to: "/results", search: { name: "" } })}
             className="h-12 px-8 rounded-full bg-[#ff6f5e] hover:bg-[#ff5a47] text-white font-medium text-base shadow-md"
           >
             Ready to vote as a family? →
+          </Button>
+          <Button
+            variant="outline"
+            onClick={() => {
+              try {
+                sessionStorage.removeItem("htai:recommendations");
+              } catch {
+                /* ignore */
+              }
+              navigate({ to: "/" });
+            }}
+            className="h-12 px-8 rounded-full border-[#0c3b3f]/30 text-[#0c3b3f] hover:bg-[#0c3b3f]/5 font-medium text-base"
+          >
+            ↺ Start over
           </Button>
         </div>
       </div>
