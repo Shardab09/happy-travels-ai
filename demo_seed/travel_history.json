@@ -1,0 +1,150 @@
+{
+  "family_id": "FAM-DEMO",
+  "trips": [
+    {
+      "trip_id": "TRIP-001",
+      "year": 2025,
+      "destination": "Greece (Athens, Santorini, Milos)",
+      "region": "Mediterranean Europe",
+      "trip_type": "culture + islands + adventure",
+      "member_experiences": [
+        {
+          "member_id": "MEM-001",
+          "name": "Sharda",
+          "activities_done": ["boat trips", "caldera sunsets", "food scene", "beaches", "museums"],
+          "activity_ratings": {
+            "boat_trips": 9,
+            "caldera_sunsets": 10,
+            "food_scene": 9,
+            "beaches": 8,
+            "museums": 7
+          },
+          "overall_satisfaction": 9,
+          "highlight": "Santorini caldera at sunset — nothing like it",
+          "would_return": "yes",
+          "implicit_prefs_inferred": ["scenic_viewpoints", "food_culture", "boat_experiences", "mediterranean_style"]
+        },
+        {
+          "member_id": "MEM-002",
+          "name": "Niel",
+          "activities_done": ["boat trips", "sea caves", "food scene", "beaches", "island exploration"],
+          "activity_ratings": {
+            "boat_trips": 9,
+            "sea_caves": 9,
+            "food_scene": 9,
+            "beaches": 7,
+            "island_exploration": 8
+          },
+          "overall_satisfaction": 9,
+          "highlight": "Sea caves in Milos — completely unexpected",
+          "would_return": "yes",
+          "implicit_prefs_inferred": ["water_exploration", "food_culture", "hidden_gems", "island_hopping"]
+        },
+        {
+          "member_id": "MEM-003",
+          "name": "Nisha",
+          "activities_done": ["beaches", "cliff jumping", "Sarakiniko volcanic rocks", "local food", "boat trips"],
+          "activity_ratings": {
+            "cliff_jumping": 10,
+            "sarakiniko_beach": 10,
+            "local_food": 9,
+            "boat_trips": 8,
+            "beaches": 9
+          },
+          "overall_satisfaction": 9,
+          "highlight": "Cliff jumping at Sarakiniko — the white volcanic rocks are surreal",
+          "would_return": "yes",
+          "implicit_prefs_inferred": ["adventure_activities", "unique_beaches", "local_food", "instagram_worthy_scenery"]
+        }
+      ],
+      "family_overall_satisfaction": 9,
+      "family_would_return": "yes — more islands",
+      "what_worked": "Island diversity — each island had a distinct character. Food scene across all three was exceptional. Boat trips connected everything.",
+      "what_to_avoid_next_time": "Peak tourist crowds in Santorini — go shoulder season or prioritise less-visited islands like Milos"
+    },
+    {
+      "trip_id": "TRIP-002",
+      "year": 2023,
+      "destination": "India (Delhi, Agra, Goa, Hyderabad)",
+      "region": "South Asia",
+      "trip_type": "heritage + family + beach + food",
+      "member_experiences": [
+        {
+          "member_id": "MEM-001",
+          "name": "Sharda",
+          "activities_done": ["forts and culture", "food scene", "beach walks", "shopping", "family visits"],
+          "activity_ratings": {
+            "forts_culture": 9,
+            "food_scene": 10,
+            "beach_walks": 7,
+            "shopping": 8,
+            "family_visits": 9
+          },
+          "overall_satisfaction": 8,
+          "highlight": "Food across all four cities — Hyderabad biryani, Delhi street food, Goa seafood",
+          "would_return": "yes",
+          "implicit_prefs_inferred": ["heritage_culture", "food_diversity", "local_markets", "family_connection"]
+        },
+        {
+          "member_id": "MEM-002",
+          "name": "Niel",
+          "activities_done": ["Taj Mahal", "Delhi forts", "food scene", "beaches", "hiking"],
+          "activity_ratings": {
+            "taj_mahal": 10,
+            "delhi_forts": 8,
+            "food_scene": 9,
+            "beaches": 7,
+            "hiking": 7
+          },
+          "overall_satisfaction": 8,
+          "highlight": "Taj Mahal at sunrise — worth every cliché",
+          "would_return": "yes",
+          "implicit_prefs_inferred": ["iconic_landmarks", "mughal_history", "food_culture", "heritage_sites"]
+        },
+        {
+          "member_id": "MEM-003",
+          "name": "Nisha",
+          "activities_done": ["Goa beaches", "clubs and nightlife", "food scene", "music scene", "shopping"],
+          "activity_ratings": {
+            "goa_beaches": 9,
+            "clubs_nightlife": 9,
+            "food_scene": 9,
+            "music_scene": 8,
+            "shopping": 7
+          },
+          "overall_satisfaction": 8,
+          "highlight": "Goa beach clubs — the vibe is unlike anywhere else",
+          "would_return": "maybe",
+          "implicit_prefs_inferred": ["beach_nightlife", "vibrant_food_scene", "music_culture", "social_atmosphere"]
+        }
+      ],
+      "family_overall_satisfaction": 8,
+      "family_would_return": "yes — visit family and explore new regions (South India, Kerala, Rajasthan)",
+      "what_worked": "Food diversity across cities was exceptional. Combination of heritage (Taj Mahal, forts) and beach (Goa) gave everyone something. Family connection was a highlight.",
+      "what_to_avoid_next_time": "Delhi heat in summer — plan for Oct-Feb. Agra can be done as a day trip, does not need an overnight."
+    }
+  ],
+  "derived_preferences": {
+    "MEM-001": {
+      "top_rated_activity": "scenic_viewpoints_and_sunsets",
+      "second_top": "food_scene",
+      "avoided_activity": "none_strong_avoidances",
+      "preferred_regions": ["Mediterranean", "South Asia"],
+      "loyalty_destinations": ["Greece — more islands"]
+    },
+    "MEM-002": {
+      "top_rated_activity": "water_exploration_and_history",
+      "second_top": "food_scene",
+      "avoided_activity": "none_strong_avoidances",
+      "preferred_regions": ["Mediterranean", "South Asia", "heritage_destinations"],
+      "loyalty_destinations": ["Greece — hidden gems", "India — new regions"]
+    },
+    "MEM-003": {
+      "top_rated_activity": "adventure_and_unique_beaches",
+      "second_top": "food_and_nightlife",
+      "avoided_activity": "purely_cultural_itineraries_with_no_beach_or_adventure",
+      "preferred_regions": ["Mediterranean islands", "beach_destinations_with_nightlife"],
+      "loyalty_destinations": ["Greece — more islands and cliff jumping spots"]
+    }
+  }
+}

@@ -1,0 +1,775 @@
+timestamp,rubric_id,family_id,destination,pass,score,notes,automatable
+2026-06-12T04:34:54.253Z,RUB-006,FAM-001,Costa Rica,PASS,0.500,Effective coverage: 50.0% (3/6 resolvable prefs matched; 0 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.254Z,RUB-006,FAM-002,Colombia,FAIL,0.286,Effective coverage: 28.6% (2/7 resolvable prefs matched; 1 unresolvable tags excluded) | FAIL: below 40% threshold,yes
+2026-06-12T04:34:54.254Z,RUB-006,FAM-003,Bali Indonesia,PASS,0.444,Effective coverage: 44.4% (4/9 resolvable prefs matched; 3 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.254Z,RUB-006,FAM-004,Indonesia Lombok,PASS,0.500,Effective coverage: 50.0% (4/8 resolvable prefs matched; 0 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.254Z,RUB-006,FAM-005,Australia,PASS,0.625,Effective coverage: 62.5% (5/8 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.254Z,RUB-006,FAM-006,Dubai,PASS,0.400,Effective coverage: 40.0% (4/10 resolvable prefs matched; 4 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.254Z,RUB-006,FAM-007,Thailand,PASS,0.444,Effective coverage: 44.4% (4/9 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.254Z,RUB-006,FAM-008,Amalfi Coast Italy,PASS,0.500,Effective coverage: 50.0% (3/6 resolvable prefs matched; 0 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.254Z,RUB-006,FAM-009,Costa Rica,PASS,0.800,Effective coverage: 80.0% (4/5 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.254Z,RUB-006,FAM-010,Danube River Cruise,PASS,0.500,Effective coverage: 50.0% (5/10 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.254Z,RUB-006,FAM-011,Hawaii,FAIL,0.333,Effective coverage: 33.3% (2/6 resolvable prefs matched; 2 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.254Z,RUB-006,FAM-012,Thailand,PASS,0.600,Effective coverage: 60.0% (6/10 resolvable prefs matched; 0 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.254Z,RUB-006,FAM-013,Vietnam,PASS,0.571,Effective coverage: 57.1% (4/7 resolvable prefs matched; 7 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.254Z,RUB-006,FAM-014,Costa Rica,PASS,0.400,Effective coverage: 40.0% (2/5 resolvable prefs matched; 4 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.254Z,RUB-006,FAM-015,Indonesia Lombok,PASS,0.400,Effective coverage: 40.0% (2/5 resolvable prefs matched; 0 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.254Z,RUB-006,FAM-016,Vietnam,PASS,0.429,Effective coverage: 42.9% (3/7 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-017,Costa Brava Spain,FAIL,0.250,Effective coverage: 25.0% (2/8 resolvable prefs matched; 3 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-018,Taiwan,FAIL,0.375,Effective coverage: 37.5% (3/8 resolvable prefs matched; 0 unresolvable tags excluded) | FAIL: below 40% threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-019,Thailand,PASS,0.400,Effective coverage: 40.0% (4/10 resolvable prefs matched; 0 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-020,Dubai,PASS,0.444,Effective coverage: 44.4% (4/9 resolvable prefs matched; 5 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-021,Australia,PASS,0.667,Effective coverage: 66.7% (4/6 resolvable prefs matched; 3 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-022,Philippines,PASS,0.500,Effective coverage: 50.0% (2/4 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-023,Costa Rica,PASS,0.800,Effective coverage: 80.0% (4/5 resolvable prefs matched; 3 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-024,Bali Indonesia,PASS,0.500,Effective coverage: 50.0% (5/10 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-025,Thailand,PASS,0.429,Effective coverage: 42.9% (3/7 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-026,Bali Indonesia,PASS,0.625,Effective coverage: 62.5% (5/8 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-027,Costa Rica,FAIL,0.333,Effective coverage: 33.3% (2/6 resolvable prefs matched; 6 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-028,Sri Lanka,PASS,0.600,Effective coverage: 60.0% (3/5 resolvable prefs matched; 5 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-029,South Korea,PASS,0.500,Effective coverage: 50.0% (2/4 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-030,Thailand,PASS,0.429,Effective coverage: 42.9% (3/7 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-031,Portugal,PASS,0.417,Effective coverage: 41.7% (5/12 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-032,Costa Rica,FAIL,0.375,Effective coverage: 37.5% (3/8 resolvable prefs matched; 1 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-033,Dubai,PASS,0.500,Effective coverage: 50.0% (5/10 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-034,Greek Islands,FAIL,0.375,Effective coverage: 37.5% (3/8 resolvable prefs matched; 5 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-035,Costa Rica,PASS,0.444,Effective coverage: 44.4% (4/9 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-036,Bali Indonesia,PASS,0.600,Effective coverage: 60.0% (3/5 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-037,Dubai,PASS,0.600,Effective coverage: 60.0% (3/5 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-038,Australia,PASS,0.500,Effective coverage: 50.0% (5/10 resolvable prefs matched; 4 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-039,Bali Indonesia,FAIL,0.286,Effective coverage: 28.6% (2/7 resolvable prefs matched; 1 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-040,Costa Rica,PASS,0.571,Effective coverage: 57.1% (4/7 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-041,Thailand,PASS,0.500,Effective coverage: 50.0% (5/10 resolvable prefs matched; 4 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-042,Thailand,FAIL,0.333,Effective coverage: 33.3% (3/9 resolvable prefs matched; 1 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-043,Croatia,PASS,0.500,Effective coverage: 50.0% (3/6 resolvable prefs matched; 0 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-044,Australia,PASS,0.667,Effective coverage: 66.7% (4/6 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-045,Hawaii,FAIL,0.385,Effective coverage: 38.5% (5/13 resolvable prefs matched; 2 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-046,Switzerland,PASS,0.500,Effective coverage: 50.0% (3/6 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-047,Thailand,PASS,0.444,Effective coverage: 44.4% (4/9 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-048,Australia,FAIL,0.375,Effective coverage: 37.5% (3/8 resolvable prefs matched; 4 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-049,Portugal,PASS,0.571,Effective coverage: 57.1% (4/7 resolvable prefs matched; 3 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-050,Morocco,PASS,0.400,Effective coverage: 40.0% (2/5 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-051,Portugal,PASS,0.600,Effective coverage: 60.0% (3/5 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-052,Vietnam,FAIL,0.385,Effective coverage: 38.5% (5/13 resolvable prefs matched; 1 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-053,Bali Indonesia,FAIL,0.333,Effective coverage: 33.3% (3/9 resolvable prefs matched; 0 unresolvable tags excluded) | FAIL: below 40% threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-054,Vietnam,FAIL,0.375,Effective coverage: 37.5% (3/8 resolvable prefs matched; 0 unresolvable tags excluded) | FAIL: below 40% threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-055,Costa Rica,FAIL,0.333,Effective coverage: 33.3% (3/9 resolvable prefs matched; 3 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-056,Costa Rica,PASS,0.600,Effective coverage: 60.0% (3/5 resolvable prefs matched; 5 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-057,Australia,PASS,0.400,Effective coverage: 40.0% (2/5 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-058,Canada Banff,PASS,0.714,Effective coverage: 71.4% (5/7 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-059,Hawaii,FAIL,0.364,Effective coverage: 36.4% (4/11 resolvable prefs matched; 2 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-060,Bali Indonesia,FAIL,0.286,Effective coverage: 28.6% (2/7 resolvable prefs matched; 0 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-061,Canada Banff,PASS,0.500,Effective coverage: 50.0% (4/8 resolvable prefs matched; 0 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-062,Cuba,PASS,0.400,Effective coverage: 40.0% (4/10 resolvable prefs matched; 3 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-063,Bali Indonesia,PASS,0.500,Effective coverage: 50.0% (3/6 resolvable prefs matched; 5 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-064,Morocco,PASS,0.400,Effective coverage: 40.0% (2/5 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-065,Bali Indonesia,PASS,0.500,Effective coverage: 50.0% (3/6 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-066,Bali Indonesia,FAIL,0.333,Effective coverage: 33.3% (3/9 resolvable prefs matched; 3 unresolvable tags excluded) | FAIL: below 40% threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-067,Guatemala,FAIL,0.375,Effective coverage: 37.5% (3/8 resolvable prefs matched; 1 unresolvable tags excluded) | FAIL: below 40% threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-068,Bali Indonesia,PASS,0.429,Effective coverage: 42.9% (3/7 resolvable prefs matched; 3 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-069,Costa Rica,PASS,0.500,Effective coverage: 50.0% (5/10 resolvable prefs matched; 5 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-070,Dubai,PASS,0.667,Effective coverage: 66.7% (4/6 resolvable prefs matched; 4 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-071,Egypt,PASS,0.500,Effective coverage: 50.0% (2/4 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-072,Australia,PASS,0.800,Effective coverage: 80.0% (4/5 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-073,Danube River Cruise,FAIL,0.308,Effective coverage: 30.8% (4/13 resolvable prefs matched; 1 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-074,Japan,PASS,0.571,Effective coverage: 57.1% (4/7 resolvable prefs matched; 0 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-075,Australia,PASS,0.625,Effective coverage: 62.5% (5/8 resolvable prefs matched; 3 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-076,Thailand,PASS,0.500,Effective coverage: 50.0% (4/8 resolvable prefs matched; 7 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-077,Costa Rica,PASS,0.600,Effective coverage: 60.0% (3/5 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-078,Thailand,PASS,0.600,Effective coverage: 60.0% (3/5 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-079,Bali Indonesia,PASS,0.500,Effective coverage: 50.0% (3/6 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-080,Cuba,FAIL,0.300,Effective coverage: 30.0% (3/10 resolvable prefs matched; 2 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-081,Bali Indonesia,PASS,0.500,Effective coverage: 50.0% (3/6 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-082,Hawaii,PASS,0.500,Effective coverage: 50.0% (3/6 resolvable prefs matched; 3 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-083,Dubai,FAIL,0.333,Effective coverage: 33.3% (3/9 resolvable prefs matched; 4 unresolvable tags excluded) | FAIL: below 40% threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-084,Australia,PASS,0.500,Effective coverage: 50.0% (4/8 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-085,Thailand,PASS,1.000,Effective coverage: 100.0% (3/3 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-086,Seychelles,PASS,0.750,Effective coverage: 75.0% (3/4 resolvable prefs matched; 3 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-087,Hawaii,FAIL,0.364,Effective coverage: 36.4% (4/11 resolvable prefs matched; 1 unresolvable tags excluded) | FAIL: below 40% threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-088,Portugal,FAIL,0.375,Effective coverage: 37.5% (3/8 resolvable prefs matched; 0 unresolvable tags excluded) | FAIL: below 40% threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-089,Vietnam,PASS,0.500,Effective coverage: 50.0% (5/10 resolvable prefs matched; 0 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-090,Costa Rica,PASS,0.600,Effective coverage: 60.0% (3/5 resolvable prefs matched; 6 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-091,Vietnam,PASS,0.556,Effective coverage: 55.6% (5/9 resolvable prefs matched; 3 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-092,Vietnam,PASS,0.667,Effective coverage: 66.7% (4/6 resolvable prefs matched; 0 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-093,Costa Rica,PASS,0.667,Effective coverage: 66.7% (4/6 resolvable prefs matched; 3 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-094,Thailand,FAIL,0.308,Effective coverage: 30.8% (4/13 resolvable prefs matched; 0 unresolvable tags excluded) | FAIL: below 40% threshold,yes
+2026-06-12T04:34:54.255Z,RUB-006,FAM-095,Costa Rica,PASS,0.500,Effective coverage: 50.0% (3/6 resolvable prefs matched; 2 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.256Z,RUB-006,FAM-096,Dubai,PASS,0.500,Effective coverage: 50.0% (4/8 resolvable prefs matched; 1 unresolvable tags excluded) | PASS: meets 40% coverage threshold | NOTE: >=1 member has 0 matched resolvable preferences,yes
+2026-06-12T04:34:54.256Z,RUB-006,FAM-097,Canada Banff,PASS,0.625,Effective coverage: 62.5% (5/8 resolvable prefs matched; 6 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.256Z,RUB-006,FAM-098,Dubai,PASS,0.600,Effective coverage: 60.0% (3/5 resolvable prefs matched; 5 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.256Z,RUB-006,FAM-099,Dubai,PASS,0.500,Effective coverage: 50.0% (3/6 resolvable prefs matched; 0 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.256Z,RUB-006,FAM-100,Costa Rica,PASS,1.000,Effective coverage: 100.0% (2/2 resolvable prefs matched; 4 unresolvable tags excluded) | PASS: meets 40% coverage threshold,yes
+2026-06-12T04:34:54.258Z,RUB-009,FAM-001,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.258Z,RUB-009,FAM-002,Colombia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.258Z,RUB-009,FAM-003,Bali Indonesia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.258Z,RUB-009,FAM-004,Indonesia Lombok,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.258Z,RUB-009,FAM-005,Australia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.259Z,RUB-009,FAM-006,Dubai,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.259Z,RUB-009,FAM-007,Thailand,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.259Z,RUB-009,FAM-008,Amalfi Coast Italy,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.259Z,RUB-009,FAM-009,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.259Z,RUB-009,FAM-010,Danube River Cruise,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.259Z,RUB-009,FAM-011,Hawaii,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.259Z,RUB-009,FAM-012,Thailand,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.259Z,RUB-009,FAM-013,Vietnam,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.260Z,RUB-009,FAM-014,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.260Z,RUB-009,FAM-015,Indonesia Lombok,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.260Z,RUB-009,FAM-016,Vietnam,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.260Z,RUB-009,FAM-017,Costa Brava Spain,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.260Z,RUB-009,FAM-018,Taiwan,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.260Z,RUB-009,FAM-019,Thailand,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.260Z,RUB-009,FAM-020,Dubai,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.260Z,RUB-009,FAM-021,Australia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.260Z,RUB-009,FAM-022,Philippines,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.260Z,RUB-009,FAM-023,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-024,Bali Indonesia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-025,Thailand,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-026,Bali Indonesia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-027,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-028,Sri Lanka,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-029,South Korea,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-030,Thailand,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-031,Portugal,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-032,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-033,Dubai,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-034,Greek Islands,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-035,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-036,Bali Indonesia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-037,Dubai,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-038,Australia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-039,Bali Indonesia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-040,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-041,Thailand,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-042,Thailand,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-043,Croatia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-044,Australia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.261Z,RUB-009,FAM-045,Hawaii,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-046,Switzerland,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-047,Thailand,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-048,Australia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-049,Portugal,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-050,Morocco,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-051,Portugal,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-052,Vietnam,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-053,Bali Indonesia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-054,Vietnam,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-055,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-056,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-057,Australia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-058,Canada Banff,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-059,Hawaii,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-060,Bali Indonesia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-061,Canada Banff,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-062,Cuba,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-063,Bali Indonesia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-064,Morocco,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-065,Bali Indonesia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-066,Bali Indonesia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-067,Guatemala,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-068,Bali Indonesia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-069,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-070,Dubai,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-071,Egypt,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-072,Australia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-073,Danube River Cruise,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-074,Japan,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-075,Australia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-076,Thailand,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-077,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-078,Thailand,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-079,Bali Indonesia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-080,Cuba,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-081,Bali Indonesia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-082,Hawaii,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-083,Dubai,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-084,Australia,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-085,Thailand,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.262Z,RUB-009,FAM-086,Seychelles,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.263Z,RUB-009,FAM-087,Hawaii,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.263Z,RUB-009,FAM-088,Portugal,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.263Z,RUB-009,FAM-089,Vietnam,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.263Z,RUB-009,FAM-090,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.263Z,RUB-009,FAM-091,Vietnam,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.263Z,RUB-009,FAM-092,Vietnam,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.263Z,RUB-009,FAM-093,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.263Z,RUB-009,FAM-094,Thailand,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.263Z,RUB-009,FAM-095,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.263Z,RUB-009,FAM-096,Dubai,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.263Z,RUB-009,FAM-097,Canada Banff,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.263Z,RUB-009,FAM-098,Dubai,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.263Z,RUB-009,FAM-099,Dubai,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.263Z,RUB-009,FAM-100,Costa Rica,PASS,1.000,No PII detected in shareable output fields,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-001,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-001,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-001,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-001,Colombia,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-001,Guatemala,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-002,Colombia,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-002,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-002,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-002,Guatemala,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-002,Nepal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-003,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-003,Egypt,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-003,India Rajasthan,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-003,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-003,Costa Brava Spain,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-004,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-004,Palawan Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-004,Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-004,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-004,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-005,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-005,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-005,New Zealand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-005,Namibia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-005,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-006,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-006,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-006,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-006,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-006,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-007,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-007,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-007,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-007,New Zealand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-007,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-008,Amalfi Coast Italy,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-008,Ireland,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-008,Canada Banff,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-008,Colombia,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-008,Taiwan,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-009,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-009,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-009,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-009,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-009,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-010,Danube River Cruise,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-010,Vienna Austria,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-010,Ireland,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-010,Egypt,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-010,Colombia,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-011,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-011,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-011,Southern France,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-011,India Rajasthan,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-011,Taiwan,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-012,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-012,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-012,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-012,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-012,Colombia,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-013,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-013,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-013,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-013,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-013,Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-014,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-014,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-014,Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-014,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-014,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-015,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-015,Palawan Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-015,Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-015,Nepal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-015,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-016,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-016,Cuba,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-016,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-016,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-016,Portugal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-017,Costa Brava Spain,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-017,Greek Islands,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-017,Danube River Cruise,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-017,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-017,Ireland,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-018,Taiwan,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-018,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-018,Morocco,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-018,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-018,Turkey Istanbul,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-019,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-019,Palawan Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-019,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-019,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-019,Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-020,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-020,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-020,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-020,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-020,Cuba,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-021,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-021,Ecuador Galapagos,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-021,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-021,New Zealand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-021,Seychelles,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-022,Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-022,Ireland,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-022,Colombia,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-022,Southern France,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-022,Costa Brava Spain,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-023,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-023,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-023,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-023,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-023,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-024,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-024,Amalfi Coast Italy,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-024,Cuba,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-024,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-024,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-025,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-025,Amalfi Coast Italy,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-025,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-025,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-025,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-026,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-026,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-026,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-026,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-026,Guatemala,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-027,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-027,Colombia,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-027,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-027,Morocco,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-027,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-028,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-028,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-028,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-028,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-028,Nepal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-029,South Korea,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-029,Portugal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-029,Taiwan,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-029,Turkey Istanbul,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-029,Egypt,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-030,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-030,Portugal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-030,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-030,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-030,Cuba,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-031,Portugal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-031,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-031,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-031,Egypt,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-031,Guatemala,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-032,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-032,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-032,Taiwan,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-032,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-032,Spain Barcelona,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-033,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-033,Amalfi Coast Italy,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-033,Tanzania Serengeti,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-033,Namibia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-033,Canada Banff,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-034,Greek Islands,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-034,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-034,Costa Brava Spain,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-034,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-034,Cuba,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-035,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-035,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-035,Seychelles,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-035,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-035,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-036,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-036,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-036,Amalfi Coast Italy,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-036,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-036,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-037,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-037,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-037,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-037,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-037,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-038,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-038,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-038,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-038,Cuba,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-038,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-039,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-039,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-039,Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-039,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-039,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-040,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-040,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-040,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-040,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-040,Palawan Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-041,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-041,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-041,Mexico Yucatan,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-041,Colombia,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-041,Cuba,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-042,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-042,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-042,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-042,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-042,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-043,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-043,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-043,Nepal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-043,Portugal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-043,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-044,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-044,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-044,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-044,Palawan Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-044,Mexico Yucatan,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-045,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-045,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-045,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-045,Greek Islands,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-045,Ireland,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-046,Switzerland,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-046,Tuscany Italy,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-046,Singapore,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-046,Ireland,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-046,South Korea,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-047,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-047,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-047,Portugal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-047,Singapore,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-047,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-048,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-048,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-048,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-048,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-048,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-049,Portugal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-049,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-049,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-049,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-049,Palawan Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-050,Morocco,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-050,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-050,Cuba,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-050,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-050,Palawan Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-051,Portugal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-051,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-051,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-051,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-051,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-052,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-052,Guatemala,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-052,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-052,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-052,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-053,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-053,Colombia,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-053,Palawan Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-053,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-053,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-054,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-054,Mexico Yucatan,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-054,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-054,Cuba,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-054,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-055,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-055,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-055,Cuba,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-055,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-055,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-056,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-056,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-056,Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-056,Canada Banff,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-056,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-057,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-057,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-057,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-057,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-057,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-058,Canada Banff,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-058,Namibia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-058,New Zealand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-058,Tanzania Serengeti,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-058,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-059,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-059,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-059,Spain Barcelona,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-059,Cuba,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-059,Danube River Cruise,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-060,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-060,Maldives,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-060,Egypt,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-060,Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-060,Seychelles,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-061,Canada Banff,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-061,Iceland,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-061,Patagonia Argentina,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-061,Norway Fjords,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-061,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-062,Cuba,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-062,Namibia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-062,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-062,Canada Banff,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-062,New Zealand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-063,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-063,Seychelles,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-063,Switzerland,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-063,Canada Banff,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-063,Ecuador Galapagos,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-064,Morocco,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-064,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-064,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-064,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-064,Nepal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-065,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-065,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-065,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-065,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-065,Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-066,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-066,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-066,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-066,Guatemala,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-066,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-067,Guatemala,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-067,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-067,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-067,Colombia,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-067,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-068,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-068,Portugal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-068,South Korea,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-068,Turkey Istanbul,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-068,Colombia,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-069,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-069,Canada Banff,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-069,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-069,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-069,New Zealand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-070,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-070,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-070,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-070,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-070,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-071,Egypt,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-071,Vienna Austria,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-071,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-071,Morocco,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-071,Rwanda,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-072,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-072,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-072,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-072,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-072,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-073,Danube River Cruise,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-073,Greek Islands,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-073,Turks and Caicos,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-073,Amalfi Coast Italy,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-073,Maldives,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-074,Japan,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-074,Portugal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-074,India Rajasthan,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-074,Turkey Istanbul,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-074,Spain Barcelona,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-075,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-075,Spain Barcelona,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-075,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-075,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-075,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-076,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-076,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-076,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-076,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-076,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-077,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-077,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-077,Seychelles,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-077,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-077,Spain Barcelona,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-078,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-078,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-078,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-078,Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-078,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-079,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-079,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-079,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-079,Colombia,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-079,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-080,Cuba,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-080,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-080,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-080,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-080,Colombia,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-081,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-081,Costa Brava Spain,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-081,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-081,Colombia,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-081,Peru,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-082,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-082,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.263Z,RUB-007,FAM-082,Spain Barcelona,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-082,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-082,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-083,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-083,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-083,New Zealand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-083,Canada Banff,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-083,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-084,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-084,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-084,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-084,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-084,Spain Barcelona,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-085,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-085,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-085,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-085,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-085,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-086,Seychelles,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-086,Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-086,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-086,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-086,Maldives,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-087,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-087,New Zealand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-087,Canada Banff,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-087,Patagonia Argentina,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-087,Iceland,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-088,Portugal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-088,Spain Barcelona,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-088,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-088,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-088,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-089,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-089,Mexico Yucatan,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-089,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-089,Greek Islands,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-089,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-090,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-090,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-090,Seychelles,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-090,Sri Lanka,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-090,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-091,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-091,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-091,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-091,Guatemala,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-091,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-092,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-092,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-092,Guatemala,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-092,Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-092,Palawan Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-093,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-093,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-093,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-093,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-093,Palawan Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-094,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-094,Vietnam,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-094,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-094,South Korea,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-094,Mexico Yucatan,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-095,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-095,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-095,Nepal,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-095,Costa Brava Spain,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-095,Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-096,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-096,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-096,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-096,Indonesia Lombok,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-096,Palawan Philippines,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-097,Canada Banff,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-097,New Zealand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-097,Tanzania Serengeti,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-097,Namibia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-097,Ecuador Galapagos,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-098,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-098,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-098,Peru,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-098,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-098,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-099,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-099,Seychelles,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-099,Australia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-099,Hawaii,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-099,Bali Indonesia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-100,Costa Rica,PASS,0.750,WARN: Level 2 (Exercise Increased Caution) — advisory notice must be shown to planner,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-100,Croatia,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-100,Mexico Yucatan,PASS,0.500,WARN: Level 3 (Reconsider Travel) — CRITICAL advisory warning must be displayed to planner before this destination is shown,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-100,Thailand,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.264Z,RUB-007,FAM-100,Dubai,PASS,1.000,PASS: Level 1 — no advisory restrictions,yes
+2026-06-12T04:34:54.598Z,RUB-005,ALL,Costa Rica,PASS,0.500,[TripAdvisor] HTTP 403 — could not verify (bot-blocked or timeout — treat as warn),yes
+2026-06-12T04:34:54.855Z,RUB-005,ALL,Costa Rica,PASS,1.000,[Lonely Planet] HTTP 301 — URL reachable,yes
+2026-06-12T04:34:54.999Z,RUB-005,ALL,Bali Indonesia,PASS,0.500,[TripAdvisor] HTTP 403 — could not verify (bot-blocked or timeout — treat as warn),yes
+2026-06-12T04:34:55.254Z,RUB-005,ALL,Bali Indonesia,PASS,1.000,[Wikivoyage] HTTP 200 — URL reachable,yes
+2026-06-12T04:34:55.549Z,RUB-005,ALL,Portugal,PASS,0.500,[TripAdvisor] HTTP 403 — could not verify (bot-blocked or timeout — treat as warn),yes
+2026-06-12T04:34:55.753Z,RUB-005,ALL,Portugal,PASS,1.000,[Reddit r/travel] HTTP 301 — URL reachable,yes
+2026-06-12T04:34:55.960Z,RUB-005,ALL,Japan,PASS,1.000,[Lonely Planet] HTTP 301 — URL reachable,yes
+2026-06-12T04:34:56.120Z,RUB-005,ALL,Japan,PASS,0.500,[TripAdvisor] HTTP 403 — could not verify (bot-blocked or timeout — treat as warn),yes
+2026-06-12T04:34:56.326Z,RUB-005,ALL,Tuscany Italy,PASS,0.500,[TripAdvisor] HTTP 403 — could not verify (bot-blocked or timeout — treat as warn),yes
+2026-06-12T04:34:56.408Z,RUB-005,ALL,Tuscany Italy,PASS,1.000,[Lonely Planet] HTTP 301 — URL reachable,yes
+2026-06-12T04:34:56.520Z,RUB-005,ALL,Tanzania Serengeti,PASS,0.500,[TripAdvisor] HTTP 403 — could not verify (bot-blocked or timeout — treat as warn),yes
+2026-06-12T04:34:56.664Z,RUB-005,ALL,Vietnam,PASS,0.500,[TripAdvisor] HTTP 403 — could not verify (bot-blocked or timeout — treat as warn),yes
+2026-06-12T04:34:56.881Z,RUB-005,ALL,Vietnam,PASS,1.000,[Wikivoyage] HTTP 200 — URL reachable,yes
+2026-06-12T04:34:57.190Z,RUB-005,ALL,South Korea,PASS,0.500,[TripAdvisor] HTTP 403 — could not verify (bot-blocked or timeout — treat as warn),yes
+2026-06-12T04:34:57.323Z,RUB-005,ALL,Maldives,PASS,0.500,[TripAdvisor] HTTP 403 — could not verify (bot-blocked or timeout — treat as warn),yes
+2026-06-12T04:34:57.387Z,RUB-005,ALL,Iceland,PASS,1.000,[Lonely Planet] HTTP 301 — URL reachable,yes
+2026-06-12T04:34:57.447Z,RUB-005,ALL,New Zealand,PASS,1.000,[Lonely Planet] HTTP 301 — URL reachable,yes
+2026-06-12T04:34:57.534Z,RUB-005,ALL,Spain Barcelona,PASS,0.500,[TripAdvisor] HTTP 403 — could not verify (bot-blocked or timeout — treat as warn),yes
+2026-06-12T04:34:57.593Z,RUB-005,ALL,Morocco,PASS,1.000,[Reddit r/travel] HTTP 301 — URL reachable,yes
+2026-06-12T04:34:57.691Z,RUB-005,ALL,Greece,PASS,0.500,[TripAdvisor] HTTP 403 — could not verify (bot-blocked or timeout — treat as warn),yes
+2026-06-12T04:34:57.789Z,RUB-005,ALL,Hawaii,PASS,1.000,[Lonely Planet] HTTP 301 — URL reachable,yes
+2026-06-12T04:34:57.875Z,RUB-005,ALL,Danube River Cruise,PASS,0.500,[TripAdvisor] HTTP 403 — could not verify (bot-blocked or timeout — treat as warn),yes
+2026-06-12T04:34:57.972Z,RUB-005,ALL,Croatia,PASS,0.500,[TripAdvisor] HTTP 403 — could not verify (bot-blocked or timeout — treat as warn),yes
+2026-06-12T04:34:58.101Z,RUB-005,ALL,Thailand,PASS,1.000,[Wikivoyage] HTTP 200 — URL reachable,yes
+2026-06-12T04:34:58.163Z,RUB-005,ALL,Peru,PASS,1.000,[Lonely Planet] HTTP 301 — URL reachable,yes
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Costa Rica,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Sri Lanka,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Indonesia Lombok,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Colombia,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Guatemala,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Vietnam,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Nepal,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Bali Indonesia,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Egypt,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,India Rajasthan,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Costa Brava Spain,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Palawan Philippines,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Philippines,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Australia,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Dubai,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,New Zealand,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Namibia,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Thailand,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Hawaii,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Croatia,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Amalfi Coast Italy,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Ireland,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Canada Banff,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Taiwan,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Danube River Cruise,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Vienna Austria,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Southern France,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Cuba,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Portugal,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Greek Islands,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Morocco,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Turkey Istanbul,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Ecuador Galapagos,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Seychelles,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,South Korea,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Spain Barcelona,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Tanzania Serengeti,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Mexico Yucatan,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Switzerland,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Tuscany Italy,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Singapore,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Maldives,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Iceland,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Patagonia Argentina,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Norway Fjords,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Rwanda,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Turks and Caicos,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Japan,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub
+2026-06-12T04:34:58.163Z,RUB-004,ALL,Peru,PASS,1.000,STUB: Set GOOGLE_PLACES_API_KEY env var to enable live Google Places verification,stub

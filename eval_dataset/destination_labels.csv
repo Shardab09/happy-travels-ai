@@ -1,0 +1,41 @@
+family_id,destination,sme1_rank,sme2_rank,sme3_rank,consensus_rank,preference_match_score,members_served,rationale,data_sources,hallucination_risk
+FAM-001,Costa Rica,1,1,2,1,0.88,"Sarah(culture+beach),James(hiking),Emma(beach),Liam(water_sports)","TripAdvisor:4.6,Wikivoyage,Lonely_Planet",low
+FAM-001,Bali Indonesia,2,2,1,2,0.82,"Sarah(culture+beach),Emma(beach+shopping),Liam(beach)","TripAdvisor:4.7,Reddit_r/travel,Wikivoyage",low
+FAM-001,Croatia,3,3,3,3,0.70,"Sarah(culture+beach),James(hiking-coastal),Emma(beach)","TripAdvisor:4.5,Lonely_Planet",low
+FAM-001,Thailand,4,5,4,4,0.60,"Sarah(culture),Emma(shopping),James(partial_hiking)","TripAdvisor:4.6,Wikivoyage",low
+FAM-001,New Zealand,5,4,5,5,0.55,"James(hiking++),others_partial","TripAdvisor:4.8,Wikivoyage",low
+FAM-002,Portugal,1,1,1,1,0.91,"Priya(culture+food+history),Arjun(hiking+photography),Anika(beaches)","TripAdvisor:4.7,Wikivoyage,Lonely_Planet",low
+FAM-002,Morocco,2,2,2,2,0.80,"Priya(culture+food+history),Arjun(photography),Anika(partial)","TripAdvisor:4.4,Reddit_r/travel",low
+FAM-002,Japan,3,3,3,3,0.75,"Priya(culture+food),Arjun(photography),Anika(partial_no_beach)","TripAdvisor:4.8,Wikivoyage",low
+FAM-002,Colombia,4,4,4,4,0.65,"Priya(culture+food),Arjun(adventure),Anika(partial)","Wikivoyage,Reddit_r/solotravel",medium
+FAM-002,Sri Lanka,5,5,5,5,0.60,"Priya(culture),Arjun(hiking),Anika(beach)","Wikivoyage,Lonely_Planet",low
+FAM-003,Tuscany Italy,1,1,1,1,0.95,"Karen(luxury+culture),Robert(wine+history)","TripAdvisor:4.8,Lonely_Planet",low
+FAM-003,Amalfi Coast Italy,2,2,2,2,0.90,"Karen(luxury+spa),Robert(history+wine)","TripAdvisor:4.9,Wikivoyage",low
+FAM-003,Southern France,3,3,3,3,0.85,"Karen(luxury+spa),Robert(wine+golf-partial)","TripAdvisor:4.7,Lonely_Planet",low
+FAM-003,Vienna Austria,4,4,4,4,0.70,"Karen(culture),Robert(history+music)","TripAdvisor:4.6,Wikivoyage",low
+FAM-003,Greek Islands,5,5,5,5,0.65,"Karen(luxury+relaxation),Robert(history)","TripAdvisor:4.7,Wikivoyage",low
+FAM-004,Vietnam,1,1,1,1,0.87,"Marcus(budget+adventure),Tanya(culture+food+markets),Tyler(wildlife+beach),Mia(animals+beach)","TripAdvisor:4.6,Wikivoyage,Reddit_r/travel",low
+FAM-004,Guatemala,2,3,2,2,0.78,"Marcus(budget+adventure),Tanya(culture+markets),Tyler(wildlife),Mia(animals)","Wikivoyage,Lonely_Planet",medium
+FAM-004,Indonesia-Lombok,3,2,3,3,0.75,"Marcus(budget+adventure),Tanya(culture),Tyler(beach),Mia(beach)","TripAdvisor:4.5,Wikivoyage",low
+FAM-004,Bolivia,4,4,5,4,0.55,"Marcus(adventure+budget),Tanya(culture+markets),others_limited","Wikivoyage,Reddit_r/solotravel",medium
+FAM-004,Philippines,5,5,4,5,0.70,"Marcus(budget),Tanya(food+culture),Tyler(beach),Mia(beach)","TripAdvisor:4.6,Wikivoyage",low
+FAM-005,South Korea,1,1,1,1,0.89,"Liu(food+shopping+city),Wei(history+architecture),Mei(nightlife+fashion)","TripAdvisor:4.7,Wikivoyage,Reddit_r/travel",low
+FAM-005,Taiwan,2,2,2,2,0.82,"Liu(food+city),Wei(history+museums),Mei(social_media+nightlife)","TripAdvisor:4.6,Wikivoyage",low
+FAM-005,Hong Kong,3,3,3,3,0.78,"Liu(shopping+food+city),Wei(architecture),Mei(shopping+nightlife)","TripAdvisor:4.5,Wikivoyage",low
+FAM-005,Singapore,4,4,4,4,0.72,"Liu(food+shopping),Wei(architecture),Mei(nightlife)","TripAdvisor:4.7,Wikivoyage",low
+FAM-005,Dubai,5,5,5,5,0.60,"Liu(shopping),Mei(nightlife+shopping),Wei(partial)","TripAdvisor:4.5,Wikivoyage",low
+FAM-006,Tanzania-Serengeti,1,1,1,1,0.94,"Amara(wildlife+photography),Kofi(adventure+outdoors),Ama(wildlife+photography),Kwame(adventure+animals),Abena(animals)","TripAdvisor:4.9,Lonely_Planet,Wikivoyage",low
+FAM-006,Botswana Okavango,2,2,2,2,0.88,"Amara(wildlife+photography),Kofi(adventure),Ama(wildlife),Kwame(animals),Abena(animals-partial)","TripAdvisor:4.8,Lonely_Planet",low
+FAM-006,Rwanda Gorillas,3,3,3,3,0.75,"Amara(wildlife+photography),Kofi(adventure),Ama(photography),Kwame(animals),Abena(partial-too_young)","TripAdvisor:4.7,Wikivoyage",medium
+FAM-006,Costa Rica,4,4,4,4,0.70,"All_members(wildlife+adventure+beach),budget_friendly","TripAdvisor:4.6,Wikivoyage",low
+FAM-006,Namibia,5,5,5,5,0.65,"Amara(photography+wildlife),Kofi(adventure),others_partial","Wikivoyage,Lonely_Planet",medium
+FAM-007,Maldives,1,1,1,1,0.97,"Sofia(luxury+beach+romance),Diego(diving+beach)","TripAdvisor:4.9,Lonely_Planet",low
+FAM-007,Bali Indonesia,2,2,2,2,0.88,"Sofia(beach+luxury+romance),Diego(diving+adventure)","TripAdvisor:4.7,Wikivoyage",low
+FAM-007,Seychelles,3,3,3,3,0.85,"Sofia(luxury+beach+romance),Diego(diving)","TripAdvisor:4.8,Lonely_Planet",low
+FAM-007,Turks and Caicos,4,4,4,4,0.80,"Sofia(luxury+beach),Diego(diving)","TripAdvisor:4.8,Wikivoyage",low
+FAM-007,Palawan Philippines,5,5,5,5,0.75,"Sofia(beach),Diego(diving+adventure)","TripAdvisor:4.7,Wikivoyage",low
+FAM-008,Danube River Cruise,1,1,1,1,0.91,"Helen(cruise+culture),George(history+birdwatching),Alice(culture+fitness-partial)","TripAdvisor:4.7,Wikivoyage",low
+FAM-008,Portugal Lisbon+Porto,2,2,2,2,0.82,"Helen(culture+relaxation),George(history),Alice(culture+food+fitness)","TripAdvisor:4.7,Lonely_Planet",low
+FAM-008,Caribbean Cruise,3,3,3,3,0.78,"Helen(cruise+relaxation),George(birdwatching+history),Alice(culture)","TripAdvisor:4.6,Wikivoyage",low
+FAM-008,Malta,4,4,4,4,0.72,"Helen(culture+relaxation),George(history),Alice(culture+fitness)","TripAdvisor:4.6,Wikivoyage",low
+FAM-008,New Zealand South Island,5,5,5,5,0.55,"George(birdwatching++),others_partial,mobility_concern","TripAdvisor:4.8,Wikivoyage",medium

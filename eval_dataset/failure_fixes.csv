@@ -1,0 +1,16 @@
+priority,rubric,issue,affected,fix
+P0,RUB-007,Level 3 advisory: Colombia,14 families,"Hard-block ""Colombia"" from entering destination recommendation pool"
+P0,RUB-007,Level 3 advisory: Guatemala,9 families,"Hard-block ""Guatemala"" from entering destination recommendation pool"
+P0,RUB-007,Level 3 advisory: Mexico Yucatan,6 families,"Hard-block ""Mexico Yucatan"" from entering destination recommendation pool"
+P0,RUB-009,PII in output: FAM-013,1 family,"Remove field(s) ""exact_age_value:6"" from shareable recommendation output for FAM-013"
+P0,RUB-009,PII in output: FAM-041,1 family,"Remove field(s) ""exact_age_value:6"" from shareable recommendation output for FAM-041"
+P0,RUB-009,PII in output: FAM-048,1 family,"Remove field(s) ""exact_age_value:6"" from shareable recommendation output for FAM-048"
+P1,RUB-007,Level 2 at rank-1: Costa Rica,16 families,Show advisory banner to planner before finalising Costa Rica as top recommendation
+P1,RUB-007,Level 2 at rank-1: Indonesia Lombok,2 families,Show advisory banner to planner before finalising Indonesia Lombok as top recommendation
+P1,RUB-007,Level 2 at rank-1: Philippines,1 families,Show advisory banner to planner before finalising Philippines as top recommendation
+P1,RUB-007,Level 2 at rank-1: Morocco,2 families,Show advisory banner to planner before finalising Morocco as top recommendation
+P1,RUB-007,Level 2 at rank-1: Cuba,2 families,Show advisory banner to planner before finalising Cuba as top recommendation
+P1,RUB-007,Level 2 at rank-1: Egypt,1 families,Show advisory banner to planner before finalising Egypt as top recommendation
+P1,RUB-006,Preference gap in Bali Indonesia,9 families,"Expand destination tag set for ""Bali Indonesia"" OR diversify preference matching logic to use semantic similarity"
+P1,RUB-006,44 families have >=1 member with 0 prefs matched,44 families,Add constraint: every family member must have >=1 pref in the top-5 destination pool before itinerary synthesis begins
+P2,RUB-004,Running in stub mode,All 100 families,Set GOOGLE_PLACES_API_KEY env var to enable live destination hallucination checks

@@ -1,0 +1,42 @@
+{
+  "family_id": "FAM-DEMO",
+  "household_size": 3,
+  "members": [
+    {
+      "member_id": "MEM-001",
+      "name": "Sharda",
+      "age": 45,
+      "member_role": "planner",
+      "preference_tags": ["culture", "food", "history", "architecture", "beach", "photography", "relaxation"],
+      "travel_style": "culture-first with scenic moments and great food",
+      "dietary_restrictions": "none",
+      "mobility_constraints": "none"
+    },
+    {
+      "member_id": "MEM-002",
+      "name": "Niel",
+      "age": 44,
+      "member_role": "partner",
+      "preference_tags": ["history", "food", "culture", "adventure", "hiking", "beach", "nature", "photography"],
+      "travel_style": "history and water activities with a strong food scene",
+      "dietary_restrictions": "none",
+      "mobility_constraints": "none"
+    },
+    {
+      "member_id": "MEM-003",
+      "name": "Nisha",
+      "age": 20,
+      "member_role": "adult_child",
+      "preference_tags": ["beach", "adventure", "nightlife", "food", "island", "nature", "city_life"],
+      "travel_style": "adventure and beach with nightlife and local food",
+      "dietary_restrictions": "none",
+      "mobility_constraints": "none"
+    }
+  ],
+  "shared_strengths": ["food", "beach", "culture"],
+  "family_dynamic": "Three adults — two parents mid-40s and one adult child 20. Food scene is the universal connector. Nisha pushes adventure and nightlife; Niel anchors on history and water; Sharda curates the scenic and cultural moments.",
+  "visited_destinations": ["Greece (Athens, Santorini, Milos)", "India (Delhi, Agra, Goa, Hyderabad)"],
+  "budget_range_usd": 7000,
+  "travel_month": "September",
+  "trip_duration_days": 6
+}

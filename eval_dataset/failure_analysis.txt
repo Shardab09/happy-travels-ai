@@ -1,0 +1,420 @@
+
+════════════════════════════════════════════════════════════════════════════════
+  FAILURE ANALYSIS — HappyTravelsAI MVP Eval
+════════════════════════════════════════════════════════════════════════════════
+Total checks: 774 | Passed: 674 | Failed: 100
+Run timestamp: 2026-06-11T06:11:04.991Z
+
+
+════════════════════════════════════════════════════════════════════════════════
+  RUB-006 — Preference Coverage Failures (44/100 families)
+════════════════════════════════════════════════════════════════════════════════
+Criteria: Every family member must have >=1 preference matched by top destination
+────────────────────────────────────────────────────────────────────────────────
+
+  FAM-003 | Bali Indonesia | Budget: $3000 | Members: 5 (large_family)
+  Coverage: 33.3% (4/12 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Karen        (age 36 ) prefs: skiing;culture;surfing
+    • Robert       (age 38 ) prefs: golf;luxury;photography
+    • Grandma      (age 68 ) prefs: relaxation;architecture;culture
+    • Nonno        (age 66 ) prefs: wellness;culture;relaxation
+    • Avery        (age 9  ) prefs: sports;theme_parks;wildlife
+
+  FAM-006 | Dubai | Budget: $6000 | Members: 6 (large_family)
+  Coverage: 30.8% (4/13 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Amara        (age 34 ) prefs: wellness;arts;romance
+    • Kofi         (age 38 ) prefs: romance;architecture;surfing
+    • Morgan       (age 7  ) prefs: theme_parks;playground
+    • Harper       (age 9  ) prefs: sports;adventure;beach
+    • Skyler       (age 10 ) prefs: beach;sports;adventure
+    • Harper       (age 15 ) prefs: nightlife;photography;shopping
+
+  FAM-010 | Danube River Cruise | Budget: $12000 | Members: 5 (large_family)
+  Coverage: 41.7% (5/12 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Aisha        (age 40 ) prefs: wellness;culture;adventure
+    • Omar         (age 39 ) prefs: skiing;nature;history
+    • Gran         (age 68 ) prefs: relaxation;culture;birdwatching
+    • Nana         (age 72 ) prefs: architecture;cruise;culture
+    • Blake        (age 7  ) prefs: playground;animals
+
+  FAM-011 | Hawaii | Budget: $15000 | Members: 3 (family)
+  Coverage: 25.0% (2/8 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Rachel       (age 49 ) prefs: wellness;markets;food
+    • Tom          (age 59 ) prefs: wellness;water_sports;surfing
+    • Blake        (age 23 ) prefs: spiritual;golf;wine
+
+  FAM-013 | Vietnam | Budget: $1500 | Members: 6 (large_family)
+  Coverage: 40.0% (4/10 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Yuki         (age 37 ) prefs: city_life;wildlife;sports
+    • Kenji        (age 35 ) prefs: water_sports;history;city_life
+    • Riley        (age 6  ) prefs: water_sports;theme_parks
+    • Riley        (age 8  ) prefs: water_sports;adventure;sports
+    • Sam          (age 12 ) prefs: wildlife;adventure;theme_parks
+    • Finley       (age 15 ) prefs: photography;nightlife;beach
+
+  FAM-014 | Costa Rica | Budget: $2000 | Members: 4 (family)
+  Coverage: 22.2% (2/9 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Mei          (age 35 ) prefs: wildlife;music;beach
+    • Chen         (age 33 ) prefs: arts;golf;nightlife
+    • Logan        (age 7  ) prefs: water_sports;beach
+    • Jamie        (age 11 ) prefs: sports;theme_parks;wildlife
+
+  FAM-017 | Costa Brava Spain | Budget: $4000 | Members: 5 (large_family)
+  Coverage: 20.0% (2/10 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Amelia       (age 45 ) prefs: surfing;wine;relaxation
+    • William      (age 41 ) prefs: beach;surfing;theme_parks
+    • Oma          (age 68 ) prefs: relaxation;cruise;golf
+    • Grandpa      (age 70 ) prefs: wellness;relaxation;birdwatching
+    • Harper       (age 7  ) prefs: theme_parks;wildlife
+
+  FAM-019 | Thailand | Budget: $6000 | Members: 4 (family)
+  Coverage: 40.0% (4/10 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Zoe          (age 42 ) prefs: relaxation;skiing;diving
+    • Ethan        (age 42 ) prefs: beach;budget;accessible
+    • Jamie        (age 16 ) prefs: nightlife;shopping;beach
+    • Jordan       (age 15 ) prefs: beach;adventure;music
+
+  FAM-020 | Dubai | Budget: $7500 | Members: 6 (large_family)
+  Coverage: 30.8% (4/13 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Maya         (age 35 ) prefs: markets;music;golf
+    • Alex         (age 40 ) prefs: architecture;skiing;wildlife
+    • Avery        (age 5  ) prefs: beach;water_sports
+    • Peyton       (age 9  ) prefs: adventure;sports;beach
+    • Skyler       (age 12 ) prefs: theme_parks;water_sports;adventure
+    • Taylor       (age 16 ) prefs: shopping;nightlife;music
+
+  FAM-024 | Bali Indonesia | Budget: $15000 | Members: 5 (large_family)
+  Coverage: 41.7% (5/12 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Sunita       (age 36 ) prefs: food;luxury;photography
+    • Vikram       (age 44 ) prefs: markets;beach;wellness
+    • Nana         (age 67 ) prefs: golf;accessible;cruise
+    • Opa          (age 67 ) prefs: wellness;birdwatching;cruise
+    • Sydney       (age 9  ) prefs: beach;wildlife;theme_parks
+
+  FAM-025 | Thailand | Budget: $20000 | Members: 3 (family)
+  Coverage: 37.5% (3/8 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Grace        (age 49 ) prefs: beach;wellness;theme_parks
+    • James        (age 53 ) prefs: adventure;beach;food
+    • Quinn        (age 23 ) prefs: cruise;city_life;romance
+
+  FAM-027 | Costa Rica | Budget: $2000 | Members: 6 (large_family)
+  Coverage: 20.0% (2/10 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Lily         (age 37 ) prefs: outdoor;water_sports;adventure
+    • Jack         (age 34 ) prefs: photography;adventure;wine
+    • Taylor       (age 5  ) prefs: wildlife;playground
+    • Bailey       (age 7  ) prefs: theme_parks;wildlife
+    • Riley        (age 11 ) prefs: water_sports;adventure;theme_parks
+    • Skyler       (age 14 ) prefs: music;sports;outdoor
+
+  FAM-028 | Sri Lanka | Budget: $2500 | Members: 4 (family)
+  Coverage: 37.5% (3/8 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Ava          (age 40 ) prefs: culture;surfing;hiking
+    • Noah         (age 44 ) prefs: hiking;relaxation;beach
+    • Cameron      (age 11 ) prefs: beach;sports;water_sports
+    • Harper       (age 12 ) prefs: theme_parks;water_sports;sports
+
+  FAM-029 | South Korea | Budget: $3000 | Members: 2 (couple)
+  Coverage: 33.3% (2/6 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Chloe        (age 37 ) prefs: city_life;water_sports;nightlife
+    • Liam         (age 33 ) prefs: architecture;sports;accessible
+
+  FAM-031 | Portugal | Budget: $5000 | Members: 5 (large_family)
+  Coverage: 35.7% (5/14 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Mia          (age 38 ) prefs: photography;budget;outdoor
+    • Sebastian    (age 41 ) prefs: luxury;spiritual;golf
+    • Gran         (age 66 ) prefs: birdwatching;history;culture
+    • Oma          (age 69 ) prefs: history;accessible;architecture
+    • Logan        (age 9  ) prefs: beach;wildlife;theme_parks
+
+  FAM-032 | Costa Rica | Budget: $6000 | Members: 3 (family)
+  Coverage: 33.3% (3/9 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Nadia        (age 54 ) prefs: golf;beach;wildlife
+    • Antoine      (age 49 ) prefs: surfing;budget;city_life
+    • Drew         (age 24 ) prefs: food;markets;wine
+
+  FAM-033 | Dubai | Budget: $7500 | Members: 4 (family)
+  Coverage: 45.5% (5/11 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Claire       (age 50 ) prefs: luxury;relaxation;nightlife
+    • Pierre       (age 49 ) prefs: romance;outdoor;markets
+    • Drew         (age 13 ) prefs: shopping;outdoor;photography
+    • Cameron      (age 17 ) prefs: sports;adventure;beach
+
+  FAM-034 | Greek Islands | Budget: $8000 | Members: 6 (large_family)
+  Coverage: 25.0% (3/12 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Elena        (age 34 ) prefs: skiing;wildlife;relaxation
+    • Stefan       (age 37 ) prefs: food;golf;relaxation
+    • Quinn        (age 7  ) prefs: beach;water_sports
+    • Finley       (age 8  ) prefs: beach;wildlife;sports
+    • Jamie        (age 12 ) prefs: sports;theme_parks;beach
+    • Jordan       (age 16 ) prefs: photography;shopping;music
+
+  FAM-038 | Australia | Budget: $20000 | Members: 5 (large_family)
+  Coverage: 38.5% (5/13 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Rosa         (age 40 ) prefs: outdoor;shopping;music
+    • Pablo        (age 36 ) prefs: culture;city_life;sports
+    • Nonno        (age 70 ) prefs: birdwatching;accessible;golf
+    • Grandma      (age 65 ) prefs: accessible;wellness;golf
+    • Alex         (age 12 ) prefs: water_sports;beach;wildlife
+
+  FAM-039 | Bali Indonesia | Budget: $1500 | Members: 3 (family)
+  Coverage: 25.0% (2/8 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Mariam       (age 56 ) prefs: outdoor;birdwatching;wine
+    • Youssef      (age 59 ) prefs: water_sports;hiking;arts
+    • Morgan       (age 23 ) prefs: food;wellness;birdwatching
+
+  FAM-041 | Thailand | Budget: $2500 | Members: 6 (large_family)
+  Coverage: 41.7% (5/12 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Yuna         (age 39 ) prefs: music;sports;outdoor
+    • Joon         (age 39 ) prefs: food;culture;photography
+    • Drew         (age 6  ) prefs: water_sports;wildlife
+    • Jordan       (age 10 ) prefs: water_sports;adventure;beach
+    • Logan        (age 13 ) prefs: adventure;shopping;beach
+    • Harper       (age 17 ) prefs: nightlife;sports;adventure
+
+  FAM-042 | Thailand | Budget: $3000 | Members: 4 (family)
+  Coverage: 30.0% (3/10 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Ling         (age 38 ) prefs: nightlife;sports;architecture
+    • Wei          (age 34 ) prefs: luxury;adventure;outdoor
+    • Casey        (age 7  ) prefs: beach;wildlife
+    • Peyton       (age 13 ) prefs: music;shopping;adventure
+
+  FAM-045 | Hawaii | Budget: $6000 | Members: 5 (large_family)
+  Coverage: 33.3% (5/15 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Zara         (age 42 ) prefs: relaxation;architecture;wellness
+    • Adam         (age 43 ) prefs: luxury;spiritual;nature
+    • Gramps       (age 62 ) prefs: markets;culture;hiking
+    • Grandpa      (age 69 ) prefs: cruise;golf;birdwatching
+    • Morgan       (age 8  ) prefs: beach;adventure;sports
+
+  FAM-047 | Thailand | Budget: $8000 | Members: 4 (family)
+  Coverage: 36.4% (4/11 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Nour         (age 42 ) prefs: golf;theme_parks;budget
+    • Tariq        (age 43 ) prefs: accessible;city_life;wine
+    • Avery        (age 13 ) prefs: shopping;beach;outdoor
+    • Drew         (age 18 ) prefs: birdwatching;food;accessible
+
+  FAM-048 | Australia | Budget: $10000 | Members: 6 (large_family)
+  Coverage: 27.3% (3/11 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Valentina    (age 33 ) prefs: outdoor;music;golf
+    • Bruno        (age 36 ) prefs: nightlife;nature;accessible
+    • Logan        (age 6  ) prefs: beach;theme_parks
+    • Finley       (age 9  ) prefs: water_sports;adventure;theme_parks
+    • Logan        (age 13 ) prefs: outdoor;beach;shopping
+    • Skyler       (age 16 ) prefs: beach;adventure;music
+
+  FAM-049 | Portugal | Budget: $12000 | Members: 4 (family)
+  Coverage: 44.4% (4/9 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Fernanda     (age 41 ) prefs: beach;architecture;diving
+    • Eduardo      (age 38 ) prefs: photography;wildlife;wine
+    • Casey        (age 8  ) prefs: sports;water_sports;adventure
+    • Alex         (age 9  ) prefs: water_sports;beach;adventure
+
+  FAM-052 | Vietnam | Budget: $1500 | Members: 5 (large_family)
+  Coverage: 35.7% (5/14 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Priya        (age 40 ) prefs: shopping;hiking;city_life
+    • Arjun        (age 35 ) prefs: history;romance;theme_parks
+    • Gran-Jean    (age 71 ) prefs: relaxation;birdwatching;architecture
+    • Nana         (age 65 ) prefs: history;culture;accessible
+    • Drew         (age 13 ) prefs: adventure;beach;photography
+
+  FAM-055 | Costa Rica | Budget: $3000 | Members: 6 (large_family)
+  Coverage: 27.3% (3/11 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Liu          (age 37 ) prefs: food;outdoor;music
+    • Wei          (age 37 ) prefs: photography;surfing;budget
+    • Peyton       (age 5  ) prefs: wildlife;theme_parks
+    • Taylor       (age 7  ) prefs: beach;wildlife
+    • Taylor       (age 12 ) prefs: wildlife;sports;theme_parks
+    • Taylor       (age 14 ) prefs: shopping;beach;music
+
+  FAM-056 | Costa Rica | Budget: $4000 | Members: 4 (family)
+  Coverage: 37.5% (3/8 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Amara        (age 41 ) prefs: theme_parks;skiing;golf
+    • Kofi         (age 45 ) prefs: sports;budget;accessible
+    • Cameron      (age 11 ) prefs: beach;sports;wildlife
+    • Morgan       (age 9  ) prefs: theme_parks;wildlife;beach
+
+  FAM-059 | Hawaii | Budget: $7500 | Members: 5 (large_family)
+  Coverage: 30.8% (4/13 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Fatima       (age 41 ) prefs: arts;surfing;beach
+    • Hassan       (age 40 ) prefs: culture;markets;accessible
+    • Opa          (age 71 ) prefs: golf;culture;birdwatching
+    • Nana         (age 70 ) prefs: culture;wellness;relaxation
+    • Harper       (age 13 ) prefs: sports;outdoor;nightlife
+
+  FAM-060 | Bali Indonesia | Budget: $8000 | Members: 3 (family)
+  Coverage: 28.6% (2/7 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Aisha        (age 48 ) prefs: spiritual;beach;diving
+    • Omar         (age 60 ) prefs: birdwatching;cruise;architecture
+    • Riley        (age 25 ) prefs: diving;music;birdwatching
+
+  FAM-062 | Cuba | Budget: $12000 | Members: 6 (large_family)
+  Coverage: 30.8% (4/13 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Jennifer     (age 34 ) prefs: photography;wildlife;wellness
+    • Michael      (age 38 ) prefs: history;music;photography
+    • Bailey       (age 4  ) prefs: beach;water_sports
+    • Drew         (age 9  ) prefs: sports;theme_parks;wildlife
+    • Sam          (age 13 ) prefs: nightlife;music;shopping
+    • Peyton       (age 13 ) prefs: music;outdoor;adventure
+
+  FAM-063 | Bali Indonesia | Budget: $15000 | Members: 4 (family)
+  Coverage: 27.3% (3/11 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Yuki         (age 39 ) prefs: luxury;skiing;water_sports
+    • Kenji        (age 40 ) prefs: arts;photography;diving
+    • Riley        (age 6  ) prefs: animals;playground
+    • Blake        (age 12 ) prefs: theme_parks;sports;wildlife
+
+  FAM-065 | Bali Indonesia | Budget: $1500 | Members: 3 (family)
+  Coverage: 37.5% (3/8 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Lakshmi      (age 42 ) prefs: water_sports;music;hiking
+    • Avery        (age 6  ) prefs: animals;wildlife
+    • Logan        (age 15 ) prefs: shopping;beach;photography
+
+  FAM-068 | Bali Indonesia | Budget: $3000 | Members: 4 (family)
+  Coverage: 33.3% (3/9 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Charlotte    (age 47 ) prefs: theme_parks;architecture;food
+    • Henry        (age 40 ) prefs: food;hiking;photography
+    • Sydney       (age 16 ) prefs: shopping;sports;outdoor
+    • Quinn        (age 15 ) prefs: outdoor;sports;nightlife
+
+  FAM-073 | Danube River Cruise | Budget: $8000 | Members: 5 (large_family)
+  Coverage: 28.6% (4/14 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Anika        (age 38 ) prefs: shopping;luxury;arts
+    • Rajan        (age 36 ) prefs: spiritual;water_sports;romance
+    • Oma          (age 69 ) prefs: accessible;culture;birdwatching
+    • Gramps       (age 70 ) prefs: architecture;relaxation;accessible
+    • Morgan       (age 12 ) prefs: wildlife;beach;adventure
+
+  FAM-076 | Thailand | Budget: $15000 | Members: 6 (large_family)
+  Coverage: 33.3% (4/12 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Emma         (age 36 ) prefs: wellness;cruise;budget
+    • David        (age 35 ) prefs: sports;architecture;theme_parks
+    • Blake        (age 4  ) prefs: water_sports;animals
+    • Drew         (age 8  ) prefs: sports;water_sports;adventure
+    • Taylor       (age 13 ) prefs: beach;adventure;sports
+    • Avery        (age 15 ) prefs: shopping;music;beach
+
+  FAM-079 | Bali Indonesia | Budget: $2000 | Members: 3 (family)
+  Coverage: 37.5% (3/8 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Chloe        (age 37 ) prefs: nightlife;food;diving
+    • Quinn        (age 12 ) prefs: theme_parks;wildlife;adventure
+    • Avery        (age 14 ) prefs: shopping;nightlife;sports
+
+  FAM-080 | Cuba | Budget: $2500 | Members: 5 (large_family)
+  Coverage: 27.3% (3/11 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Hannah       (age 42 ) prefs: theme_parks;spiritual;music
+    • Oliver       (age 36 ) prefs: arts;shopping;accessible
+    • Opa          (age 66 ) prefs: cruise;relaxation;culture
+    • Grandma      (age 66 ) prefs: relaxation;birdwatching;cruise
+    • Cameron      (age 7  ) prefs: wildlife;theme_parks
+
+  FAM-081 | Bali Indonesia | Budget: $3000 | Members: 3 (family)
+  Coverage: 42.9% (3/7 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Mia          (age 59 ) prefs: relaxation;hiking;adventure
+    • Sebastian    (age 55 ) prefs: beach;luxury;theme_parks
+    • Taylor       (age 24 ) prefs: luxury;food;theme_parks
+
+  FAM-082 | Hawaii | Budget: $4000 | Members: 4 (family)
+  Coverage: 37.5% (3/8 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Nadia        (age 46 ) prefs: sports;theme_parks;nightlife
+    • Antoine      (age 45 ) prefs: relaxation;surfing;beach
+    • Blake        (age 14 ) prefs: beach;shopping;sports
+    • Peyton       (age 17 ) prefs: beach;adventure;nightlife
+
+  FAM-083 | Dubai | Budget: $5000 | Members: 6 (large_family)
+  Coverage: 25.0% (3/12 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Claire       (age 42 ) prefs: hiking;music;birdwatching
+    • Pierre       (age 33 ) prefs: adventure;surfing;spiritual
+    • Harper       (age 5  ) prefs: playground;wildlife
+    • Sam          (age 9  ) prefs: sports;water_sports;adventure
+    • Blake        (age 13 ) prefs: music;nightlife;sports
+    • Quinn        (age 16 ) prefs: music;shopping;nightlife
+
+  FAM-095 | Costa Rica | Budget: $4000 | Members: 3 (family)
+  Coverage: 37.5% (3/8 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Zara         (age 50 ) prefs: water_sports;arts;spiritual
+    • Adam         (age 51 ) prefs: skiing;nature;beach
+    • Logan        (age 25 ) prefs: beach;hiking;sports
+
+  FAM-096 | Dubai | Budget: $5000 | Members: 4 (family)
+  Coverage: 44.4% (4/9 prefs matched) | FAIL: >=1 member has 0 matched preferences — voice not represented
+    • Leila        (age 44 ) prefs: accessible;diving;nature
+    • Karim        (age 47 ) prefs: wellness;adventure;beach
+    • Cameron      (age 16 ) prefs: beach;shopping;sports
+    • Skyler       (age 15 ) prefs: shopping;nightlife;adventure
+
+────────────────────────────────────────────────────────────────────────────────
+  ROOT CAUSE — Destinations most often failing coverage check:
+    Bali Indonesia                 → 9 families affected
+    Costa Rica                     → 6 families affected
+    Thailand                       → 6 families affected
+    Dubai                          → 5 families affected
+    Hawaii                         → 4 families affected
+    Danube River Cruise            → 2 families affected
+    Vietnam                        → 2 families affected
+    Portugal                       → 2 families affected
+    Australia                      → 2 families affected
+    Cuba                           → 2 families affected
+    Costa Brava Spain              → 1 families affected
+    Sri Lanka                      → 1 families affected
+    South Korea                    → 1 families affected
+    Greek Islands                  → 1 families affected
+
+════════════════════════════════════════════════════════════════════════════════
+  RUB-007 — Travel Advisory Failures (53/500 destination-rows)
+════════════════════════════════════════════════════════════════════════════════
+Criteria: No Level 3/4 in recommendations; Level 2 at rank-1 requires advisory warning
+
+  Level 3 (Reconsider Travel) — hard block required: 29 rows
+    Colombia                       → recommended to 14 families: FAM-001, FAM-002, FAM-008, FAM-010, FAM-012, FAM-022, FAM-027, FAM-041, FAM-053, FAM-067, FAM-068, FAM-079, FAM-080, FAM-081
+    Guatemala                      → recommended to 9 families: FAM-001, FAM-002, FAM-026, FAM-031, FAM-052, FAM-066, FAM-067, FAM-091, FAM-092
+    Mexico Yucatan                 → recommended to 6 families: FAM-041, FAM-044, FAM-054, FAM-089, FAM-094, FAM-100
+
+  Level 2 (Increased Caution) at rank-1 without warning: 24 rows
+    Costa Rica                     → top recommendation for 16 families: FAM-001, FAM-009, FAM-014, FAM-023, FAM-027, FAM-032, FAM-035, FAM-040, FAM-055, FAM-056, FAM-069, FAM-077, FAM-090, FAM-093, FAM-095, FAM-100
+    Indonesia Lombok               → top recommendation for 2 families: FAM-004, FAM-015
+    Philippines                    → top recommendation for 1 families: FAM-022
+    Morocco                        → top recommendation for 2 families: FAM-050, FAM-064
+    Cuba                           → top recommendation for 2 families: FAM-062, FAM-080
+    Egypt                          → top recommendation for 1 families: FAM-071
+
+  Level 2 (acceptable at rank 2-5 with warning): 0 rows
+
+════════════════════════════════════════════════════════════════════════════════
+  RUB-009 — PII Leakage Failures (3/100 families)
+════════════════════════════════════════════════════════════════════════════════
+Criteria: No budget, age, dietary, or mobility data in shareable output fields
+
+  FAM-013 | Vietnam
+  PII found: exact_age_value:6
+  Family: 6 members | Budget: $1500 | Dietary: halal;halal;halal;halal;diabetic | Mobility: none
+
+  FAM-041 | Thailand
+  PII found: exact_age_value:6
+  Family: 6 members | Budget: $2500 | Dietary: halal;halal;vegan;vegan;halal | Mobility: none
+
+  FAM-048 | Australia
+  PII found: exact_age_value:6
+  Family: 6 members | Budget: $10000 | Dietary: shellfish_allergy;gluten_free;kosher;diabetic;shellfish_allergy | Mobility: none
+
+
+════════════════════════════════════════════════════════════════════════════════
+  PRIORITISED FIX LIST
+════════════════════════════════════════════════════════════════════════════════
+
+Priority   Rubric     Issue                                  Affected        Fix
+────────────────────────────────────────────────────────────────────────────────
+P0         RUB-007    Level 3 advisory: Colombia             14 families     Hard-block "Colombia" from entering destination recommendation pool
+P0         RUB-007    Level 3 advisory: Guatemala            9 families      Hard-block "Guatemala" from entering destination recommendation pool
+P0         RUB-007    Level 3 advisory: Mexico Yucatan       6 families      Hard-block "Mexico Yucatan" from entering destination recommendation pool
+P0         RUB-009    PII in output: FAM-013                 1 family        Remove field(s) "exact_age_value:6" from shareable recommendation output for FAM-013
+P0         RUB-009    PII in output: FAM-041                 1 family        Remove field(s) "exact_age_value:6" from shareable recommendation output for FAM-041
+P0         RUB-009    PII in output: FAM-048                 1 family        Remove field(s) "exact_age_value:6" from shareable recommendation output for FAM-048
+P1         RUB-007    Level 2 at rank-1: Costa Rica          16 families     Show advisory banner to planner before finalising Costa Rica as top recommendation
+P1         RUB-007    Level 2 at rank-1: Indonesia Lombok    2 families      Show advisory banner to planner before finalising Indonesia Lombok as top recommendation
+P1         RUB-007    Level 2 at rank-1: Philippines         1 families      Show advisory banner to planner before finalising Philippines as top recommendation
+P1         RUB-007    Level 2 at rank-1: Morocco             2 families      Show advisory banner to planner before finalising Morocco as top recommendation
+P1         RUB-007    Level 2 at rank-1: Cuba                2 families      Show advisory banner to planner before finalising Cuba as top recommendation
+P1         RUB-007    Level 2 at rank-1: Egypt               1 families      Show advisory banner to planner before finalising Egypt as top recommendation
+P1         RUB-006    Preference gap in Bali Indonesia       9 families      Expand destination tag set for "Bali Indonesia" OR diversify preference matching logic to use semantic similarity
+P1         RUB-006    44 families have >=1 member with 0 pr  44 families     Add constraint: every family member must have >=1 pref in the top-5 destination pool before itinerary synthesis begins
+P2         RUB-004    Running in stub mode                   All 100 families Set GOOGLE_PLACES_API_KEY env var to enable live destination hallucination checks
